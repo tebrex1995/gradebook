@@ -1,0 +1,14 @@
+{
+    "validCredentials": {
+        "email": "qatest@gmail.com",
+        "password": "emausla123"
+    },
+
+    "professor": {
+        "firstName": "Aleksa",
+        "lastName": "Tvrdisic",
+         "id": "28"
+    },
+
+    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw2bte7cuGr3XJlU3zWdb2zJ&ust=1667487913512000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPioktfij_sCFQAAAAAdAAAAABAN"
+}
